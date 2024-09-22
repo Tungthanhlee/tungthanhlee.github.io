@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Xin chao!
 
-I am a third-year PhD student in Computer Science, University of California Irvine (UCI) advised by Professor [Xiaohui Xie](https://www.ics.uci.edu/~xhx/). Currently, I am working on various computer vision, especially **3D vision**, and deep learning problems. Recently, I've spent a wonderful internship at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on neural rendering and polarization.
+I am a third-year PhD student in Computer Science, University of California Irvine (UCI) advised by Professor [Xiaohui Xie](https://www.ics.uci.edu/~xhx/). Currently, I am working on various computer vision, especially **3D vision**, and deep learning problems. Recently, I've spent a wonderful internship (Summer'24) at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on neural rendering and polarization.
 
 Research interests:
 - 3D shape analysis/representations.
