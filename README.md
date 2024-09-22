@@ -1,5 +1,7 @@
 # al-folio
 
+Video tutorial to build the page locally: https://www.youtube.com/watch?v=g6AJ9qPPoyc
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
