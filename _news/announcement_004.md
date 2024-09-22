@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09 07:59:00-0400
+date: 2024-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper is accepted by BMVC 2024  <span style="color:red"> (Oral)</span>.
+One paper is accepted by ICLR 2024.
