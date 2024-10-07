@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD student in Computer Science, University of California Irvine (UCI) advised by Professor [Xiaohui Xie](https://www.ics.uci.edu/~xhx/). Currently, I am working on various computer vision, especially **3D vision**, and deep generative for 3D problems. Recently, I've spent a wonderful internship (Summer'24) at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on neural rendering and polarization.
+I am a third-year PhD student in Computer Science, University of California Irvine (UCI) advised by Professor [Xiaohui Xie](https://uci-xie-lab.github.io/). Currently, I am working on various computer vision, especially **3D vision**, and deep generative for 3D problems. Recently, I've spent a wonderful internship (Summer'24) at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on neural rendering and polarization.
 
 Research interests:
 - 3D shape analysis/representations.
@@ -28,5 +28,4 @@ Research interests:
 - Efficient optimal transport.
 - Medical imaging (I switched to general vision shortly after joining PhD). 
 
-Feel free to check out other related work from our talented lab's colleagues at [Xie Lab](https://uci-xie-lab.github.io/). 
 <!-- My research interests are in Deep Learning and Computer Vision focusing on 3D Vision. My goal is to allow neural nets to reason and understand our 3D world given visual observations, e.g. images and videos, and textual information. If you'd like to connect, feel free to reach out to me at **tung DOT le AT uci DOT edu**. -->
