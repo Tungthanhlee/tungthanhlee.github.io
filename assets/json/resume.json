@@ -72,7 +72,7 @@
         "Diffusion Models",
         "Joint Generation and Reconstruction",
         "Video Generation",
-        "Geometry Estimation (Depth/Normals)"
+        "Dense Prediction (Depth/Normals)"
       ]
     }
   ]
