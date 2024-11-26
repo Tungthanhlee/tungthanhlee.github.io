@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Resume
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+# cv_pdf: example_pdf.pdf
+description: I am actively seeking research internship opportunities in 3D Vision and Diffusion Generative Models. If my background aligns with your needs, feel free to reach out via email!
 toc:
   sidebar: left
 ---
