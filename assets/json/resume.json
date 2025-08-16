@@ -2,9 +2,19 @@
   "basics": {
     "name": "Thanh-Tung Le",
     "email": "tung DOT le AT uci.edu",
-    "research interests": "3D vision, Generative models"
+    "research interests": "Generative models, 3D vision, World models"
   },
   "work": [
+    {
+      "name": "Google",
+      "position": "Student Researcher",
+      "url": "",
+      "startDate": "2024 June",
+      "endDate": "2024 Sep",
+      "image": "",
+      "summary": "Efficient Video Generation.",
+      "highlights": []
+    },
     {
       "name": "Meta",
       "position": "Research Scientist Intern",

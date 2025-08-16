@@ -18,14 +18,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD student in Computer Science, University of California Irvine (UCI) advised by Professor [Xiaohui Xie](https://uci-xie-lab.github.io/). Currently, I am working on various computer vision, especially **3D vision**, and deep generative for 3D problems. Recently, I've spent a wonderful internship (Summer'24) at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on neural rendering and polarization.
+
+<span style="color:red">I expect to graduate in 2026 and am actively seeking research scientist positions, as well as research internships. If my expertise aligns with your needs, please feel free to contact me via email to request my latest resume.</span>
+
+I am a fourth-year PhD candidate in Computer Science at the University of California, Irvine, advised by Professor [Xiaohui Xie](https://uci-xie-lab.github.io/). My research focuses on generative models and 3D vision, with a broader interest in developing robust multimodal AI systems. I aim to create general-purpose world models that can learn from rich visual data, enabling interactive and dynamic environments.
+
+<!-- I am a fourth-year PhD candidate in Computer Science, University of California Irvine (UCI) advised by Professor [Xiaohui Xie](https://uci-xie-lab.github.io/). My research interests are in Generative models and 3D. I am also interested in building multimodal AI systems that are robust. My goal is to build general purpose world models, in which AI systems learn from rich visual information, enabling interactive enviroments.
+
+Currently, I am working on various computer vision, especially **3D vision**, and deep generative for 3D problems. Recently, I've spent a wonderful internship (Summer'24) at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on neural rendering and polarization. -->
 
 Research interests:
-- 3D shape analysis/representations.
-- Neural/inverse rendering. 
-- Deep generative models.
-- 2.5D scene representation: Depth/Normals estimation.
-- Efficient optimal transport.
-- Medical imaging (I switched to general vision shortly after joining PhD). 
 
-<!-- My research interests are in Deep Learning and Computer Vision focusing on 3D Vision. My goal is to allow neural nets to reason and understand our 3D world given visual observations, e.g. images and videos, and textual information. If you'd like to connect, feel free to reach out to me at **tung DOT le AT uci DOT edu**. -->
+1. Generative models
+- Diffusion Models, Flow Matching, Autoregressive, Masked Autoregressive Models, Hybrid Generative Approaches.
+- Video Generation, Diffusion Distillation, Generative Novel Views Synthesis, Diffusion-based Dense Estimation. 
+
+2. 3D vision
+- Novel View Synthesis, 3D Shape Analysis and Representations, Neural Rendering (NeRF and 3DGS-based).
+- 2.5D Scene Representation: Depth/Normals Estimation.
+- Efficient Optimal Transport for 3D Shape Learning.
+
+
+
