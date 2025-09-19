@@ -5,7 +5,7 @@ title: Resume
 nav: true
 nav_order: 5
 # cv_pdf: example_pdf.pdf
-description: I am on job market and am actively seeking Research Scientist/Research Internship positions. If you are interested in my profile, please feel free to contact me via email at thanhtul[at]uci[dot]edu or [my LinkedIn page](https://www.linkedin.com/in/thanh-tung-le-741668170/)
+description: I am actively seeking research internship opportunities in 3D Vision and Diffusion Generative Models. If my background aligns with your needs, feel free to reach out via email for latest resume.
 toc:
   sidebar: left
 ---
