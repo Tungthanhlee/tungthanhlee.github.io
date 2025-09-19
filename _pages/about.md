@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<span style="color:red">I expect to graduate in 2026 and am actively seeking research scientist positions, as well as research internships. If my expertise aligns with your needs, please feel free to contact me via email to request my latest resume.</span>
+<span style="color:red">I am on job market and am actively seeking Research Scientist/Research Internship positions. If you are interested in my profile, please feel free to contact me via email at thanhtul[at]uci[dot]edu or [my LinkedIn page](https://www.linkedin.com/in/thanh-tung-le-741668170/).</span>
 
 I am a fourth-year PhD candidate in Computer Science at the University of California, Irvine, advised by Professor [Xiaohui Xie](https://uci-xie-lab.github.io/). My research focuses on **Generative Models** and **3D Vision**, with a broader interest in developing robust **Multimodal AI systems**. I aim to create general-purpose **World Models** that can learn from rich visual data, enabling interactive and dynamic environments.
 
