@@ -6,11 +6,21 @@
   },
   "work": [
     {
+      "name": "NVIDIA",
+      "position": "Senior Deep Learning Engineer",
+      "url": "https://www.nvidia.com/",
+      "startDate": "2026 Feb",
+      "endDate": "Present",
+      "image": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "Google",
       "position": "Student Researcher",
       "url": "",
       "startDate": "2025 June",
-      "endDate": "2025 Sep",
+      "endDate": "2025 Dec",
       "image": "",
       "summary": "Efficient Video Generation.",
       "highlights": []
@@ -22,25 +32,7 @@
       "startDate": "2024 June",
       "endDate": "2024 Sep",
       "image": "meta_logo.png",
-      "summary": "3D vision, Neural Rendering, Polarization, Depth Estimation.",
-      "highlights": []
-    },
-    {
-      "name": "Fizio Health Inc.",
-      "position": "Computer Vision Engineer Intern",
-      "url": "https://fiziohealth.com/",
-      "startDate": "2023 June",
-      "endDate": "2023 Sep",
-      "summary": "Video Understanding, Action Recognition.",
-      "highlights": []
-    },
-    {
-      "name": "Vingroup of Big Data Institute ",
-      "position": "Research Scientist Intern",
-      "url": "https://vinbigdata.com/en",
-      "startDate": "2019 Sep",
-      "endDate": "2022 June",
-      "summary": "Medical Imaging, Segmentation, Detection.",
+      "summary": "3D vision, Neural Rendering",
       "highlights": []
     }
   ],
@@ -49,11 +41,10 @@
     {
       "institution": "University of California, Irvine",
       "location": "Irvine, CA, US.",
-      "area": "Computer Science;Generative Model;Computer Vision",
-      "studyType": "Ph.D. Candidate in Computer Science",
+      "area": "Computer Science",
+      "studyType": "Ph.D. in Computer Science",
       "startDate": "2022 Sept",
-      "endDate": "2027 June",
-      "courses": [" Light and Geometry in Computer Vision", "Deep Generative Model"]
+      "endDate": "2026 Jan"
     },
     {
       "institution": "University of California, Irvine",
